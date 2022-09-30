@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DrivableMapTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-09-30T21:37:14" hostname="uisumi-ROG-Zephyrus-M16-GU603HM-GU603HM" time="0.004">
+  <properties/>
+  <testcase name="testGetTradable" classname="DrivableMapTest" time="0.003"/>
+  <testcase name="testHasFasterThan" classname="DrivableMapTest" time="0.0"/>
+  <testcase name="testAddDrivable" classname="DrivableMapTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
